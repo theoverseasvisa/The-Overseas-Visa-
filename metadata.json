@@ -1,0 +1,6 @@
+{
+  "name": "The Overseas Visa",
+  "description": "Premium eligibility assessor, interactive country visa directory, and expert immigration consultancy web platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
